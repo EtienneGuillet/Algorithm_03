@@ -1,5 +1,7 @@
 # Algorithm_03
 
+## 에텐느 길렛 - Etienne Guillet 50211441 ##
+
 ## Model 1 : 3 Layers with 1 Convolution layer ##
 ### Model used ###
 ![image](https://user-images.githubusercontent.com/34447879/173547803-fa928373-81eb-48ad-a250-747643236b66.png)
