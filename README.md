@@ -2,15 +2,16 @@
 
 ## Model 1 ##
 ### Success cases ###
-![image](https://user-images.githubusercontent.com/34447879/173510259-bc6bf279-7b32-43b8-9029-8197e3c7f884.png)
+![image](https://user-images.githubusercontent.com/34447879/173513416-d2208293-3a7d-402b-b46b-0bc7949bb1a4.png)
 ### Failure cases ###
-None
+![image](https://user-images.githubusercontent.com/34447879/173513586-d5c667d6-afd8-4fdd-a493-14b40f51d562.png)
+
 
 ## Model 2 ##
 ### Success cases ###
-![image](https://user-images.githubusercontent.com/34447879/173510259-bc6bf279-7b32-43b8-9029-8197e3c7f884.png)
+![image](https://user-images.githubusercontent.com/34447879/173514517-528fdaca-0d1d-4cb7-ba67-67faa2a26abc.png)
 ### Failure cases ###
-None
+![image](https://user-images.githubusercontent.com/34447879/173514638-2a50f3db-5340-4f06-88ec-c17622f8969c.png)
 
 ## Model 3 ##
 ### Success cases ###
