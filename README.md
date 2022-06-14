@@ -15,6 +15,6 @@
 
 ## Model 3 ##
 ### Success cases ###
-![image](https://user-images.githubusercontent.com/34447879/173510259-bc6bf279-7b32-43b8-9029-8197e3c7f884.png)
+![image](https://user-images.githubusercontent.com/34447879/173516080-3d30777f-c989-498c-9d25-03796e4dce7e.png)
 ### Failure cases ###
-None
+![image](https://user-images.githubusercontent.com/34447879/173516301-18d7db53-8300-4348-b626-292371100c5d.png)
